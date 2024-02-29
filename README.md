@@ -10,8 +10,8 @@ Berikut merupakan beberapa dokumentasi hasil pencapaian yang saya peroleh selama
 
 ## Sertifikat Kelulusan Kelas Dasar Visualisasi Data
 
-Will be obtained soon.
+[![Sertifikat dasar visualisasi data](./dasar-visualisasi-data/sertifikat/Screenshot%202024-02-29%20194317.png)](https://www.dicoding.com/certificates/EYX405KJRPDL)
 
 ## Sertifikat Kelulusan Kelas Machine Learning Pemula
 
-Will be obtained soon.
+Will be achieved soon.
